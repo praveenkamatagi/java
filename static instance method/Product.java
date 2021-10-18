@@ -28,3 +28,5 @@ void displayTotalPrice()
   System.out.println(totalPrice);
   Product.totalOfAllProduct=Product.totalOfAllProduct+totalPrice;
   System.out.println(Product.totalOfAllProduct);
+}
+}

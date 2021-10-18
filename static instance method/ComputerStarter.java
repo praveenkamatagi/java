@@ -23,3 +23,5 @@ computer.displayTotalPrice();
 computer1.displayTotalPrice();
 computer.displayTotalOfAll();
 computer1.displayTotalOfAll();
+}
+}
